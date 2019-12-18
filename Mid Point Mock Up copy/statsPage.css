@@ -1,0 +1,124 @@
+/* General style css */
+
+/* Font Family */
+h1, h2, h3, h4, h5, h6, p {
+
+  font-family: 'Comfortaa', cursive;
+
+}
+
+.introHeader{
+
+  height:100vh;
+  background-color:#ffffff;
+  background-image: url("Images/cartoon_earth.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+/* Corporate information */
+
+
+/* Paragraph Text  */
+.textCorporate p{
+
+  font-size: 29.5px;
+  line-height:45px;
+  color:#000000;
+  text-align: left;
+  font-weight:400;
+  margin-bottom:50px;
+
+}
+
+/* Heading Text */
+.textCorporate h1{
+
+  font-size: 42px;
+  color:#000000;
+  font-weight:600;
+
+}
+
+/* End of Corporate Information */
+
+/* Intro before Graphs */
+.graphIntro p{
+
+  font-size: 29.5px;
+  line-height:45px;
+  color:#000000;
+  font-weight:400;
+  text-align: right;
+
+}
+
+/* Graph Headings */
+.graphIntro h1{
+
+  font-size: 42px;
+  color:#000000;
+  font-weight:600;
+  text-align: right;
+}
+
+/* Graph Descriptions */
+.graphText p{
+
+  font-size: 22px;
+  line-height:45px;
+  font-size:23px;
+  color:#000000;
+  font-weight:500;
+  padding:7%;
+
+}
+
+/* End of Graph Section */
+
+/* Align content on picture */
+
+
+/* Picture before new venueus */
+.pictureCenter {
+
+  display: flex;
+  background-image: url("Images/headOffice.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  
+}
+
+/* Overlay on office Picture */
+.col-7.opBackground { 
+  background-color: rgba(0, 0, 0, 0.7);
+  padding:4%;
+  align-self: flex-end;
+  margin-left:10px;
+  margin-bottom:10px;
+
+}
+
+/* Text on overlay Picture */
+.col-7.opBackground p {
+  
+  font-size: 29.5px;
+  line-height:45px;
+  color:#ffffff;
+  text-align: left;
+  font-weight:400;
+  
+  
+}
+
+/* End of Align content on Picture */
+
+
+/* New Venueus */
+
+
+
+
+ 

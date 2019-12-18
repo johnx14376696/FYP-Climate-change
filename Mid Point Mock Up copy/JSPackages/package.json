@@ -1,0 +1,42 @@
+{
+  "name": "wowburger",
+  "version": "1.0.0",
+  "description": " Website made with Bootstrap 4.3.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Restaurant"
+  ],
+  "author": "John Cunningham",
+  "license": "ISC",
+  "dependencies": {
+    "@fancyapps/fancybox": "*",
+    "animate.css": "*",
+    "aos": "^2.3.4",
+    "baguettebox.js": "^1.11.0",
+    "bootstrap": "^4.3.1",
+    "elevator.js": "^1.0.1",
+    "granim": "^2.0.0",
+    "imagehover.css": "^2.0.0",
+    "jarallax": "^1.10.7",
+    "jquery": "^3.4.1",
+    "multiscroll.js": "^0.2.2",
+    "parallax-js": "^3.1.0",
+    "paroller.js": "^1.4.6",
+    "particles.js": "^2.0.0",
+    "rellax": "^1.10.0",
+    "scrollmagic": "^2.0.7",
+    "slick-carousel": "^1.8.1",
+    "smooth-scroll": "^16.1.0",
+    "stellar.js": "^0.6.5",
+    "swiper": "^4.5.0",
+    "typed.js": "^2.0.10",
+    "vanilla-tilt": "^1.7.0",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2"
+  }
+}
